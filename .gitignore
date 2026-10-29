@@ -1,0 +1,4 @@
+.renv/
+_pycache_/
+.pytest_cache/
+notes.db
